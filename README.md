@@ -1,7 +1,7 @@
 # Intro
 This is a little guide to help you get introduced to using git with GitKraken
 
-# Part 0: Setup
+# Chapter 0: Setup
 1. Install git: https://git-scm.com/download
 2. Set user info using the command line
     * `git config --global user.email "you@example.com"`
@@ -11,7 +11,7 @@ This is a little guide to help you get introduced to using git with GitKraken
 5. Install GitKraken: https://www.gitkraken.com/download
 6. Sign into GitKraken using your Github account
 
-# Part 1: Working Locally
+# Chapter 1: Working Locally
 1. Open GitKraken
 2. Click (2) in the top left corner to initialize a new repository.
 3. Go to Init, and create a "Local Only" repository. Create a folder called "git-stuff" and set it as your "New repository path". Click "Create Repository"
@@ -27,7 +27,7 @@ This is a little guide to help you get introduced to using git with GitKraken
 13. The file has now moved to the "Staged Files" section.
 14. Type a messsage and commit.
 
-# Part 2: Working with Github
+# Chapter 2: Working with Github
 1. Go to github and create a new project: https://github.com/new
 2. Name it something descriptive, and make it private (So you can control who sees it), then click "Create repository"
 3. Copy the url in "Quick Setup"
@@ -43,7 +43,7 @@ This is a little guide to help you get introduced to using git with GitKraken
 13. On GitKraken, click the "Pull" button.
 14. Now your local repo is up to date.
 
-# Part 3: Working with another repo and Branches
+# Chapter 3: Working with another repo and Branches
 1. Go to https://github.com/rohitchavan-git/full-stack-angular5-springboot2-example
 2. Click the "Fork" icon in the top right to fork this repo to your github
    account.
